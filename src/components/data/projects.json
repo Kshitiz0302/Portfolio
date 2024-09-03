@@ -27,7 +27,7 @@
     "key": 4,
     "title": "IPL - EDA",
     "imageSrc": "/assets/project_images/IPL.jpg",
-    "description": "It is a Exploratory-Data-Analysis on IPL dataset that uses Python-pyspark and SQL.",
+    "description": "It is a Exploratory-Data-Analysis on IPL dataset that uses Python-pySpark and SQL.",
     "demo": "https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4354019879938929/3816681144227439/2770203938443209/latest.html",
     "source": "https://github.com/Kshitiz0302/IPL_Exploratory-data-analysis"
   }
