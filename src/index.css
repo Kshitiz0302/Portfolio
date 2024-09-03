@@ -21,7 +21,8 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 10px; 
+  padding: 0 10px; /* Add padding to ensure content does not touch the edges */
+}
 
 /* Navbar items */
 .nav_bar .nav_items {
@@ -36,31 +37,33 @@ a {
 }
 
 /* Styling for logo */
+.nav_bar .left {
+  /* No additional styles needed for larger screens */
+}
 
-
-
+/* Styling for the right side */
 .nav_bar .right {
   display: flex;
   justify-content: flex-end;
   align-items: center;
 }
 
-
+/* Responsive Adjustments for smaller screens */
 @media (max-width: 768px) {
   .nav_bar {
-    flex-direction: column; 
+    flex-direction: column; /* Stack items vertically on small screens */
   }
 
   .nav_bar .left {
     order: 2;
     margin-top: 10px;
-    text-align: center; 
-    width: 100%; 
+    text-align: center; /* Center the Portfolio logo */
+    width: 100%; /* Ensure the logo div takes full width */
   }
 
   .nav_bar .right {
     display: flex;
-    justify-content: center; 
+    justify-content: center; /* Center nav items */
     order: 1;
     margin-bottom: 10px;
     width: 100%; 
@@ -278,7 +281,7 @@ a {
 /* Responsive Adjustments */
 @media (max-width: 576px) {
   .contact-icon .items {
-    height: 60px; 
+    height: 60px; /* Adjust size for smaller screens */
     width: 60px;
   }
 }
