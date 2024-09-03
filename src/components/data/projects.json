@@ -2,7 +2,7 @@
   {
     "key": 1,
     "title": "Foodify - A food ordering website",
-    "imageSrc": "https://pixabay.com/get/g3b872726fd7191cd5aa946c60983b348dd812cb984e4908d64b03404e93c65376092201c1a66d11e6006d7ded3d2b1fc86c4aafc0ad37d4cbcf3805191b62e52_1280.png",
+    "imageSrc": "/assets/project_images/foodify.jpg",
     "description": "This is a project made with complete MERN stack that allows user to order food items after secured and authentic registration.",
     "demo": "https://foodify-website.onrender.com/",
     "source": "https://github.com/Kshitiz0302/Foodify-Website"
@@ -10,7 +10,7 @@
   {
     "key": 2,
     "title": "THREAD - A chat app",
-    "imageSrc": "https://pixabay.com/get/gb401a6c7fc21df6881a8a195168b5e6b08f2b860038499f38c3fbf4c663739c3b539f5f1e3eb38a6fb21cd03400268ce3f6a72d8c6e48b17ba9aae913626cdb4_1280.png",
+    "imageSrc": "/assets/project_images/chat-app.jpg",
     "description": "A responsive real-time chat application using the MERN stack, with features like user authentication, unread message tracking, and efficient state management",
     "demo": "https://thread-fy3q.onrender.com/",
     "source": "https://github.com/Kshitiz0302/Thread"
@@ -18,7 +18,7 @@
   {
     "key": 3,
     "title": "Book-IT",
-    "imageSrc": "https://pixabay.com/get/gbdd51866739ca9ec14252b053c8e660efd4ae832b1ea433407bfad095fe326fe8f80768050600aa679db0a1705c5e8980258cec336c8a65009205d20d406db93_1280.jpg",
+    "imageSrc": "/assets/project_images/hotel.jpg",
     "description": "This is a project made with complete React js. It is a hotel booking website.",
     "demo": "https://hotel-site-mrr6.onrender.com/",
     "source": "https://github.com/Kshitiz0302/Hotel-Site"
@@ -26,7 +26,7 @@
   {
     "key": 4,
     "title": "IPL - EDA",
-    "imageSrc": "https://pixabay.com/get/ge787ea876dcb9ee6def0027e2207b06782b2e9b2b6e2189b29ca2d94ec3a32447b6f73e0714ec1b0ee440e8e0c6b6b8f6809ff9353114a0639306f4a06a0a2c0_1280.png",
+    "imageSrc": "/assets/project_images/IPL.jpg",
     "description": "It is a Exploratory-Data-Analysis on IPL dataset that uses Python-pyspark and SQL.",
     "demo": "https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4354019879938929/3816681144227439/2770203938443209/latest.html",
     "source": "https://github.com/Kshitiz0302/IPL_Exploratory-data-analysis"
